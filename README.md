@@ -2,60 +2,71 @@
 
 # ⚡ Welcome to My Hunting Grounds 🐉
 
-<img src="https://media.tenor.com/6Z2Z6G5g7YAAAAAC/sonic-sonic-the-hedgehog.gif" width="180">
+### 🦔 Sonic Speed × Monster Hunter Spirit
 
-### 🦔 Sonic Speed × Monster Hunter Spirit 🗡️
+*Fast as Sonic. Strong as a Hunter. Built with Laravel.*
 
-*Fast as Sonic. Strong as a Hunter.*
+<img src="assets/sonic.gif" width="180">
 
 ---
 
-> "Keep moving forward. Every hunt is a new adventure."
+💙 Developer in progress | 🎮 Gamer | ⚔️ Hunter
 
 </div>
 
 ## 👤 About Me
 
-- 🎮 Gamer at heart
-- 🦔 Sonic the Hedgehog fan
+- 💻 Interested in Web Development & Software Engineering
+- 🚀 Currently working with Laravel and PHP
+- 🎨 Building dynamic websites using Blade
+- 🗄️ Learning database management with MySQL
+- ☕ Also exploring Java and Object-Oriented Programming
 - 🐉 Monster Hunter enthusiast
-- 💻 Learning programming & software development
-- ⚔️ Always ready for the next quest
+- 🦔 Sonic the Hedgehog fan
 
-## ⚡ My Two Worlds
+## 🛠️ My Development Arsenal
 
-<table>
-<tr>
-<td align="center" width="50%">
+### ⚔️ Languages & Frameworks
 
-### 🦔 SONIC
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://media.tenor.com/1b7W9bN5nQAAAAAC/sonic-running.gif" width="160">
+### 🛡️ Tools & Database
 
-**Speed • Freedom • Adventure**
-
-</td>
-<td align="center" width="50%">
-
-### 🐲 MONSTER HUNTER
-
-<img src="https://media.tenor.com/6Z2Z6G5g7YAAAAAC/sonic-sonic-the-hedgehog.gif" width="160">
-
-**Hunting • Survival • Strength**
-
-</td>
-</tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
 ---
 
-## 🛠️ My Arsenal
+## 🐉 Current Quests
 
-![Java](https://img.shields.io/badge/Java-Weapon_of_Choice-orange?style=for-the-badge&logo=openjdk)
-![PHP](https://img.shields.io/badge/PHP-Hunting_Tools-777BB4?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-Hunter's_Storage-blue?style=for-the-badge&logo=mysql)
-![HTML](https://img.shields.io/badge/HTML-Quest_Scroll-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Armor_Design-1572B6?style=for-the-badge&logo=css3)
+| Quest | Status |
+|---|---|
+| Laravel Development | ⚔️ In Progress |
+| Blade Templating | ⚔️ In Progress |
+| MySQL Database Management | ⚔️ In Progress |
+| Java OOP | ⚔️ In Progress |
+| Becoming a Better Developer | ♾️ Ongoing |
+
+---
+
+## 🦔 Two Worlds, One Adventure
+
+<div align="center">
+
+| SONIC THE HEDGEHOG | MONSTER HUNTER |
+|:---:|:---:|
+| Speed & Freedom | Strength & Survival |
+| Chaos Emeralds 💎 | Hunter Rank ⚔️ |
+| Gotta Go Fast! | Happy Hunting! |
+
+</div>
 
 ---
 
@@ -63,9 +74,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rnrthings&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rnrthings&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -73,10 +84,10 @@
 
 <div align="center">
 
-### 💙 Gotta go fast. Gotta hunt harder.
+### 💙 Gotta Go Fast. Happy Hunting!
 
-*Powered by Chaos Emeralds & Hunter Spirit.*
+*May your code compile and your hunts be successful.*
 
-<img src="https://media.tenor.com/6Z2Z6G5g7YAAAAAC/sonic-sonic-the-hedgehog.gif" width="150">
+<img src="assets/monster-hunter.gif" width="200">
 
 </div>
