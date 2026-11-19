@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # ⚡ Welcome to My Hunting Grounds 🐉
@@ -81,4 +80,3 @@
 <img src="https://media.tenor.com/6Z2Z6G5g7YAAAAAC/sonic-sonic-the-hedgehog.gif" width="150">
 
 </div>
-```
