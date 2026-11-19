@@ -41,7 +41,7 @@
 
 <img src="https://media.tenor.com/6Z2Z6G5g7YAAAAAC/sonic-sonic-the-hedgehog.gif" width="160">
 
-**Hunting • Survival • Strength • Speed**
+**Hunting • Survival • Strength**
 
 </td>
 </tr>
