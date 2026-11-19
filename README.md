@@ -24,6 +24,33 @@
 - 🐉 Monster Hunter enthusiast
 - 🦔 Sonic the Hedgehog fan
 
+## 🚀 Featured Projects
+
+### 🍱 BI-KANTIN — Online Canteen System
+
+A web-based canteen ordering system built with Laravel and MySQL.
+
+**Tech Stack:**
+- Laravel & PHP
+- Blade Templating
+- MySQL
+- HTML & CSS
+
+**Features:**
+- 🔐 Login authentication for Admin and Students
+- 🍔 Menu management (CRUD)
+- 📋 Food ordering system
+- 📦 Order status management
+- 👨‍💼 Separate Admin and Student dashboards
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_PROJECT_REPOSITORY_LINK)
+
+---
+
+### ☕ More projects coming soon...
+
+*Every project is another quest. Every bug is another monster to hunt.*
+
 ## 🛠️ My Development Arsenal
 
 ### ⚔️ Languages & Frameworks
